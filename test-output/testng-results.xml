@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-04-09T13:29:14Z" name="Default suite" finished-at="2019-04-09T13:29:28Z" duration-ms="14358">
+    <groups>
+    </groups>
+    <test started-at="2019-04-09T13:29:14Z" name="Default test" finished-at="2019-04-09T13:29:28Z" duration-ms="14358">
+      <class name="log4j.Log4jTest">
+        <test-method is-config="true" signature="open_browser()[pri:0, instance:log4j.Log4jTest@2657d4dd]" started-at="2019-04-09T13:29:14Z" name="open_browser" finished-at="2019-04-09T13:29:26Z" duration-ms="12103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_browser -->
+        <test-method signature="get_title()[pri:1, instance:log4j.Log4jTest@2657d4dd]" started-at="2019-04-09T13:29:26Z" name="get_title" finished-at="2019-04-09T13:29:26Z" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_title -->
+        <test-method signature="gmail_link_displayed()[pri:2, instance:log4j.Log4jTest@2657d4dd]" started-at="2019-04-09T13:29:26Z" name="gmail_link_displayed" finished-at="2019-04-09T13:29:26Z" duration-ms="98" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gmail_link_displayed -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:log4j.Log4jTest@2657d4dd]" started-at="2019-04-09T13:29:26Z" name="closebrowser" finished-at="2019-04-09T13:29:28Z" duration-ms="2095" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- log4j.Log4jTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

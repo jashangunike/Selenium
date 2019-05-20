@@ -1,0 +1,14 @@
+###############  Log4j ###########################
+	For old version of Selenium it's working fine, like 3.5.3 selenium version 
+			but i don't know the exact version, may be it will updated soon.
+		- if you want to test log4j, then go back to selenium 3.5.3 version
+			(just change the selenium version in pom.xml )
+			
+
+Note : - //where to create: create inside resources folder
+					 - Name - log4j.properties 
+					 
+About log4j Location :- if you don't create log4j.properties file under the src/main/resources or resources
+						folder it won't be execute. ---- checked by dkr.
+			
+####################################################
